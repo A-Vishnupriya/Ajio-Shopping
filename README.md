@@ -38,6 +38,6 @@ When we will enter our address and click on submit button, it will redirect to p
 Challenges Faced:
 merging of codes was one of the challenges. Also we were working remotely so sometimes it was challenging to match the time.
 
-Thanks to all the team members, who supported in this project.
 
-This is a brief summary of my project. We have learnt so many things during the completion of the project. We learnt how to coordinate with team members and respect each-others time.
+
+
